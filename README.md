@@ -35,7 +35,7 @@ Alternatively, you can perform fine-tuning on [Google Colab](https://colab.resea
 ### How long does it take? 
 1. Install dependencies (3 min)
 2. Choose pretrained model to start. The detailed differences between them are described in [Colab Notebook](https://colab.research.google.com/drive/1pn1xnFfdLK63gVXDwV4zCXfVeo8c-I-0?usp=sharing)
-   > debug version colab: https://colab.research.google.com/github/hengjingzhu/VITS-fast-fine-tuning/blob/main/VITS_fast_finetuning.ipynb
+   > debug version colab: [https://colab.research.google.com/github/hengjingzhu/VITS-fast-fine-tuning/blob/main/VITS_fast_finetuning.ipynb](https://colab.research.google.com/github/hengjingzhu/VITS-fast-fine-tuning/blob/main/VITS_fast_finetuning.ipynb#scrollTo=VA4hV2G_fyKz)
 4. Upload the voice samples of the characters you wish to add，see [DATA.MD](https://github.com/Plachtaa/VITS-fast-fine-tuning/blob/main/DATA_EN.MD) for detailed uploading options.
 5. Start fine-tuning. Time taken varies from 20 minutes ~ 2 hours, depending on the number of voices you uploaded.
 
